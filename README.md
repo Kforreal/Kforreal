@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Franklin Xiang 👋
 
-<!--
-**Kforreal/Kforreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A 4th year Statistics student at The University of Waterloo! Welcome to my GitHub profile! I'm passionate about software development, problem-solving and data analysis. I'm always looking for new challenges and opportunities in the world of technology!
 
-Here are some ideas to get you started:
+## 🔭 What I’m working on
+Machine learning, neural networks and backpropagation: by trying to build micrograd
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m learning
+Neural Networks: Zero to Hero
+
+## 🛠️ Skills
+**Languages:** 
+● Python
+● Java
+● C++
+● JavaScript
+● SQL
+
+**Tools:** 
+● Git & GitHub
+● MySQL
+● SQLite
+● Spring Boot
+● AWS
+
+## 📫 How to reach me
+- Email: y3xiang@uwaterloo.ca
+- LinkedIn: https://www.linkedin.com/in/yiqixiang/
+- Phone: (1) 226-899-8662
+
+I'm looking forward to building amazing things with you!
