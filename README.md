@@ -9,7 +9,7 @@ Machine learning, neural networks and backpropagation: by trying to build microg
 Neural Networks: Zero to Hero
 
 ## 🛠️ Skills
-**Languages:** 
+## **Languages:** 
 
 ● Python
 
@@ -22,7 +22,7 @@ Neural Networks: Zero to Hero
 ● SQL
 
 
-**Tools:** 
+## **Tools:** 
 
 ● Git & GitHub
 
@@ -37,12 +37,12 @@ Neural Networks: Zero to Hero
 
 ## 📫 How to reach me
 
-- Email: y3xiang@uwaterloo.ca
+- **Email:** y3xiang@uwaterloo.ca
 
-- LinkedIn: https://www.linkedin.com/in/yiqixiang/
+- **LinkedIn:** https://www.linkedin.com/in/yiqixiang/
 
-- Phone: (1) 226-899-8662
+- **Phone:** (1) 226-899-8662
 
 
-I'm looking forward to building amazing things with you!
+**I'm looking forward to building amazing things with you!**
 
