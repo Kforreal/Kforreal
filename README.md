@@ -10,23 +10,39 @@ Neural Networks: Zero to Hero
 
 ## 🛠️ Skills
 **Languages:** 
+
 ● Python
 
 ● Java
+
 ● C++
+
 ● JavaScript
+
 ● SQL
 
+
 **Tools:** 
+
 ● Git & GitHub
+
 ● MySQL
+
 ● SQLite
+
 ● Spring Boot
+
 ● AWS
 
+
 ## 📫 How to reach me
+
 - Email: y3xiang@uwaterloo.ca
+
 - LinkedIn: https://www.linkedin.com/in/yiqixiang/
+
 - Phone: (1) 226-899-8662
 
+
 I'm looking forward to building amazing things with you!
+
