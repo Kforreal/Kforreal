@@ -11,6 +11,7 @@ Neural Networks: Zero to Hero
 ## 🛠️ Skills
 **Languages:** 
 ● Python
+
 ● Java
 ● C++
 ● JavaScript
